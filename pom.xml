@@ -141,6 +141,7 @@
     <module>operators</module>
     <module>app-templates</module>
     <module>solutions</module>
+    <module>examples</module>
   </modules>
   
 </project>
