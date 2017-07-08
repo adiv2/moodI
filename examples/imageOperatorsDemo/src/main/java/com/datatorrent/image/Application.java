@@ -23,7 +23,6 @@ import com.datatorrent.api.StreamingApplication;
 import com.datatorrent.api.annotation.ApplicationAnnotation;
 import org.apache.hadoop.conf.Configuration;
 
-
 @ApplicationAnnotation(name = "ImageConversionCompressionResize")
 /**
  * Reads images from a directory- converts,compresses and resize the images and writes to output directory.
