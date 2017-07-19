@@ -11,5 +11,5 @@ Original image 4.3MB 4096x2304
 ![alt text](https://github.com/DataTorrent/moodI/blob/master/operators/contrib/image/src/test/resources/TestImages/TestImage.jpg?raw=true "Original image")
 
 Compressed image 1.05 MB 2048x1152
-![alt text](https://raw.githubusercontent.com/DataTorrent/moodI/blob/master/operators/contrib/image/src/test/resources/TestImages/CompressedTestImage.jpg)
+![alt text](https://github.com/DataTorrent/moodI/blob/master/operators/contrib/image/src/test/resources/TestImages/CompressedTestImage.jpg?raw=true "Compressed image")
 
